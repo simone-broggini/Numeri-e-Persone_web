@@ -6,9 +6,9 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true, // Required for static export
   },
-  // Base path is often required for GitHub Pages project sites (e.g. /repo-name)
-  // We will leave it commented out for now, but it might be needed later.
-  // basePath: '/zio-book-graph-check', 
+  // Base path is required for GitHub Pages project sites
+  basePath: '/Numeri-e-Persone_web',
+  assetPrefix: '/Numeri-e-Persone_web', 
 };
 
 export default nextConfig;
