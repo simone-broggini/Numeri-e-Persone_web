@@ -1,0 +1,309 @@
+{
+  "chapter": 3,
+  "year": 1971,
+  "title": "I numeri del censimento del 1971",
+  "charts": {
+    "population_pyramid": [
+      {
+        "age": "Meno di 5",
+        "male": 277,
+        "female": 240,
+        "total": 517
+      },
+      {
+        "age": "5 - 9",
+        "male": 273,
+        "female": 240,
+        "total": 513
+      },
+      {
+        "age": "10 - 14",
+        "male": 192,
+        "female": 183,
+        "total": 375
+      },
+      {
+        "age": "15 - 24",
+        "male": 425,
+        "female": 437,
+        "total": 862
+      },
+      {
+        "age": "25 - 34",
+        "male": 471,
+        "female": 461,
+        "total": 932
+      },
+      {
+        "age": "35 - 44",
+        "male": 412,
+        "female": 419,
+        "total": 831
+      },
+      {
+        "age": "45 - 54",
+        "male": 330,
+        "female": 343,
+        "total": 673
+      },
+      {
+        "age": "55 - 64",
+        "male": 294,
+        "female": 329,
+        "total": 623
+      },
+      {
+        "age": "65 - 74",
+        "male": 152,
+        "female": 224,
+        "total": 376
+      },
+      {
+        "age": "Oltre 75 anni",
+        "male": 45,
+        "female": 75,
+        "total": 120
+      }
+    ],
+    "active_vs_non_active": [
+      {
+        "comune": "Azzate",
+        "active": 1341,
+        "non_active": 1290
+      },
+      {
+        "comune": "Brunello",
+        "active": 253,
+        "non_active": 187
+      },
+      {
+        "comune": "Buguggiate",
+        "active": 800,
+        "non_active": 618
+      }
+    ],
+    "active_by_sector": [
+      {
+        "comune": "Azzate",
+        "agricoltura": 32,
+        "industria": 938,
+        "servizi": 350
+      },
+      {
+        "comune": "Brunello",
+        "agricoltura": 11,
+        "industria": 178,
+        "servizi": 64
+      },
+      {
+        "comune": "Buguggiate",
+        "agricoltura": 13,
+        "industria": 590,
+        "servizi": 191
+      }
+    ],
+    "education_level": [
+      {
+        "comune": "Azzate",
+        "Laurea": 17,
+        "Diploma": 150,
+        "Media": 502,
+        "Elementare": 1784,
+        "Alfabeti": 517,
+        "Analfabeti": 38
+      },
+      {
+        "comune": "Brunello",
+        "Laurea": 5,
+        "Diploma": 13,
+        "Media": 65,
+        "Elementare": 263,
+        "Alfabeti": 168,
+        "Analfabeti": 9
+      },
+      {
+        "comune": "Buguggiate",
+        "Laurea": 17,
+        "Diploma": 71,
+        "Media": 225,
+        "Elementare": 871,
+        "Alfabeti": 459,
+        "Analfabeti": 21
+      }
+    ],
+    "education_pyramid": [
+      {
+        "level": "Laurea",
+        "male": 32,
+        "female": 7
+      },
+      {
+        "level": "Diploma",
+        "male": 139,
+        "female": 95
+      },
+      {
+        "level": "Media",
+        "male": 423,
+        "female": 369
+      },
+      {
+        "level": "Elementare",
+        "male": 1397,
+        "female": 1521
+      },
+      {
+        "level": "Alfabeti",
+        "male": 513,
+        "female": 631
+      },
+      {
+        "level": "Analfabeti",
+        "male": 29,
+        "female": 39
+      }
+    ],
+    "demographic_movement": [
+      {
+        "year": 1962,
+        "natural_balance": 60,
+        "migratory_balance": 140
+      },
+      {
+        "year": 1963,
+        "natural_balance": 27,
+        "migratory_balance": 165
+      },
+      {
+        "year": 1964,
+        "natural_balance": 65,
+        "migratory_balance": 70
+      },
+      {
+        "year": 1965,
+        "natural_balance": 53,
+        "migratory_balance": 40
+      },
+      {
+        "year": 1966,
+        "natural_balance": 64,
+        "migratory_balance": 110
+      },
+      {
+        "year": 1967,
+        "natural_balance": 56,
+        "migratory_balance": 101
+      },
+      {
+        "year": 1968,
+        "natural_balance": 42,
+        "migratory_balance": 140
+      },
+      {
+        "year": 1969,
+        "natural_balance": 45,
+        "migratory_balance": 104
+      },
+      {
+        "year": 1970,
+        "natural_balance": 39,
+        "migratory_balance": 68
+      }
+    ],
+    "population_trend": [
+      {
+        "year": 1962,
+        "Azzate": 3016,
+        "Brunello": 447,
+        "Buguggiate": 1124
+      },
+      {
+        "year": 1963,
+        "Azzate": 3044,
+        "Brunello": 447,
+        "Buguggiate": 1288
+      },
+      {
+        "year": 1964,
+        "Azzate": 3122,
+        "Brunello": 505,
+        "Buguggiate": 1287
+      },
+      {
+        "year": 1965,
+        "Azzate": 3127,
+        "Brunello": 506,
+        "Buguggiate": 1374
+      },
+      {
+        "year": 1966,
+        "Azzate": 3152,
+        "Brunello": 523,
+        "Buguggiate": 1506
+      },
+      {
+        "year": 1967,
+        "Azzate": 3177,
+        "Brunello": 542,
+        "Buguggiate": 1605
+      },
+      {
+        "year": 1968,
+        "Azzate": 3244,
+        "Brunello": 561,
+        "Buguggiate": 1701
+      },
+      {
+        "year": 1969,
+        "Azzate": 3281,
+        "Brunello": 585,
+        "Buguggiate": 1789
+      },
+      {
+        "year": 1970,
+        "Azzate": 3342,
+        "Brunello": 578,
+        "Buguggiate": 1842
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "3.2.1 La popolazione residente",
+      "content": "residenti\n\nnel 1971\n\nvariazione in valore assoluto rispetto al 1961\n\nvariazione in valore percentuale rispetto al 1961\n\nAzzate\n\n3338\n\n+389\n\n+13,2%\n\nBrunello\n\n591\n\n+164\n\n+38,4%\n\nBuguggiate\n\n1893\n\n+880\n\n+86,9%\n\n",
+      "charts": []
+    },
+    {
+      "title": "3.2.2 La suddivisione della popolazione per classi di età e sesso",
+      "content": "Il grafico rappresenta in valori assoluti le dieci classi di età in cui è suddivisa l’intera popolazione censita nei tre Comuni di Azzate, Brunello e Buguggiate (5822 abitanti).\n\nLa fascia più giovane (0-14 anni) costituisce circa un quarto della popolazione. Quasi equivalente è la fascia dei giovani adulti (15-34 anni), in cui si trova la classe di età in assoluto più numerosa, quella dai 25 ai 34 anni (932 residenti). La fascia di età più consistente è quella degli adulti in età lavorativa (35-64 anni). Le ultime due classi, in cui è riunita la popolazione più anziana, sono le meno consistenti (496 residenti, pari all’8,5%).\n\nPer quanto riguarda la suddivisione per sesso, si può notare che, sino ai 55-64 anni, il numero dei maschi e quello delle femmine sono quasi equivalenti; a partire dai 65 anni, invece, è evidente la prevalenza delle donne sugli uomini.\n\n",
+      "charts": [
+        "population_pyramid"
+      ]
+    },
+    {
+      "title": "3.2.3 Il lavoro: popolazione attiva e non attiva",
+      "content": "Il primo grafico riguarda i residenti in ciascuno dei tre Comuni in età da 14 anni in poi - e non più dai 10 anni, come era avvenuto nei due precedenti censimenti - e rappresenta in valori assoluti due gruppi: gli attivi e i non attivi.\n\nIn tutti e tre i Comuni gli occupati superano i non occupati; la differenza tra i due gruppi è piuttosto modesta nel Comune di Azzate, più evidente nei Comuni di Brunello e di Buguggiate.\n\nPer favorirne una più immediata leggibilità, nel grafico non è stata prevista l’ulteriore suddivisione tra maschi e femmine. Tale suddivisione viene comunque illustrata dall’Istat in una delle sue pubblicazioni relative al censimento del 1971. Da lì si desume che la componente femminile sul totale degli attivi è del 30,7% ad Azzate, del 31,8% a Buguggiate e del 33,6% a Brunello. Tra i non attivi, invece, le donne sono il 74% ad Azzate e Brunello, mentre raggiugono il 78% a Buguggiate.\n\nRispetto a quest’ultimo dato, bisogna sempre tener presente che le casalinghe - «le donne attendenti alle cure domestiche» - sono conteggiate dall’Istat nella popolazione non attiva.\n\nIl secondo grafico rappresenta per ciascuno dei tre Comuni la popolazione attiva nei tre settori economici fondamentali: l’agricoltura, l’industria e i servizi. I dati sono espressi in valori percentuali.\n\nNel settore primario è impiegata una quota modestissima degli occupati: raggiungono il 4,35% a Brunello, il 2,5% ad Azzate e l’1,64% a Buguggiate. Solo 4 dei 52 occupati sono donne. Il settore industriale è quello in cui si registra la percentuale di gran lunga più alta di occupati, superiore al 70% in tutti e tre i Comuni. Infine, la percentuale degli occupati nei servizi è di circa il 25% in ciascuno dei tre Comuni, in decisa crescita rispetto ai valori registrati nel precedente censimento.\n\nPer ciò che concerne la suddivisione degli occupati in base al sesso, la componente femminile in tutti e tre i Comuni raggiunge il livello percentuale più alto nel settore dei servizi, in cui si attesta intorno al 35%, mentre nel settore industriale è di circa il 25%.\n\n",
+      "charts": [
+        "active_vs_non_active",
+        "active_by_sector"
+      ]
+    },
+    {
+      "title": "3.2.4 I gradi di istruzione della popolazione",
+      "content": "Il primo grafico rappresenta la suddivisione in valori percentuali della popolazione in età dai 6 anni in poi residente in ciascuno dei tre Comuni, prendendo in esame il grado di istruzione.\n\nI valori più omogenei sono quelli che riguardano gli estremi del grafico: i laureati sono compresi tra lo 0,6% di Azzate e l’1% di Brunello e di Buguggiate; gli analfabeti, invece, raggiungono l’1,3% ad Azzate e a Buguggiate e l’1,7% a Brunello.\n\nPiù differenziati, invece, sono i restanti valori. Gli alfabeti privi di titolo di studio sono il 19% ad Azzate, il 27,6% a Buguggiate e il 32% a Brunello. Per valutare questo dato bisogna ricordare che in questo gruppo sono «compresi anche coloro che alla data del censimento frequentavano una qualsiasi classe di scuola elementare, ivi compresi gli iscritti alla 1^ elementare».\n\nI possessori del solo titolo di licenza di scuola elementare sono il 50,3% a Brunello, il 52,3% a Buguggiate e il 57,6% ad Azzate. Comincia ad essere abbastanza consistente la percentuale dei possessori della licenza di scuola media inferiore: a Brunello raggiunge il 12,4%, a Buguggiate il 13,5% e ad Azzate il 16,2%. Anche i valori percentuali relativi ai possessori del diploma di scuola media superiore sono in crescita rispetto ai precedenti censimenti: ad Azzate si raggiunge il 4,9%, il 2,5% a Brunello e il 4,7% a Buguggiate.\n\nIl secondo grafico è stato costruito partendo dall’insieme della popolazione residente nei tre Comuni, che all’atto del censimento era in possesso di un titolo di studio. Il grafico presenta i dati in valori assoluti e per ciascun titolo di studio permette di distinguere i maschi dalle femmine.\n\nSi confermano le tendenze emerse nel censimento del 1961: le femmine prevalgono leggermente tra i possessori della sola licenza elementare, i maschi, invece, sono più numerose nei due successivi livelli della piramide, ma le distanze tra i due gruppi si stanno riducendo. Tra i laureati, pur in presenza di valori assoluti molto modesti, i maschi sono di gran lunga prevalenti, dal momento che sono 32 mentre le femmine sono soltanto 7.\n\n",
+      "charts": [
+        "population_pyramid",
+        "education_level",
+        "education_pyramid"
+      ]
+    },
+    {
+      "title": "3.3 Il movimento anagrafico (anni 1962-1970)",
+      "content": "Il primo grafico rappresenta il movimento anagrafico nei suoi elementi fondamentali, indicando il saldo naturale e il saldo migratorio per l’insieme della popolazione residente nei tre Comuni. I dati sono espressi in valori assoluti.\n\nMentre nel capitolo precedente i dati del movimento anagrafico – per motivi oggettivi e soggettivi - erano limitati a soli tre anni, in questo capitolo i dati disponibili riguardano ben nove dei dieci anni previsti. Ciò permette di conoscere in dettaglio e di valutare più attentamente il ruolo svolto dai singoli fattori del movimento anagrafico sulla consistente crescita della popolazione, passata dai 4389 abitanti del 1961 ai 5822 del 1971.\n\nSe, ad esempio, si osserva il movimento naturale, si nota che nei nove anni il saldo è sempre positivo. Si va dal minimo di 27 unità registrato nel 1963 (72 nascite e 45 decessi) al massimo di 66 unità nel 1966 (112 nascite e 46 decessi). Anche il movimento migratorio ha sempre un saldo positivo e, con la sola eccezione del 1965, il suo valore assoluto supera, spesso anche di molto, il valore assoluto del saldo naturale. Il picco si registra nel 1963, quando il saldo migratorio è di 165 unità (350 sono gli iscritti, tutti provenienti da un altro Comune, e 185 i cancellati, tutti trasferiti ad un altro Comune).\n\nAndamento percentuale della popolazione (1962-1970)\n\nIl secondo grafico rappresenta, in valori percentuali, l’andamento - crescente o decrescente - della popolazione in ciascuno dei tre Comuni, nel periodo preso in esame dal movimento anagrafico. Il valore 100 (base 100) posto alla base della retta verticale (asse Y) è rapportato alla popolazione di ciascun Comune nel primo anno indicato all’inizio della retta orizzontale (asse X).\n\nNel 1962 la popolazione di ciascun Comune, espressa in valori assoluti, è la seguente: Azzate 3016 abitanti, Brunello 447, Buguggiate 1124.\n\n",
+      "charts": [
+        "demographic_movement",
+        "population_trend"
+      ]
+    }
+  ]
+}
